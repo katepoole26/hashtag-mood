@@ -1,6 +1,7 @@
 # #mood
 ## 🪩 Mood of the Queue
 Internal tool for Mochi Health Ops team to log and visualize mood of the support ticket queue throughout the day
+(& Kate Poole's take-home assessment)
 
 ## 🚀 Live App
 View deployed app: https://hashtag-mood.streamlit.app/
