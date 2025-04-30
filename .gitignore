@@ -4,6 +4,3 @@
 # Python cache
 __pycache__/
 *.py[cod]
-
-# dev container
-.devcontainer/
