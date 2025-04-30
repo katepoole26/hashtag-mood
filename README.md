@@ -1,5 +1,5 @@
-# 🪩 #mood
-## Mood of the Queue
+# #mood
+## 🪩 Mood of the Queue
 Internal tool for Mochi Health Ops team to log and visualize mood of the support ticket queue throughout the day
 
 ## 🚀 Live App
