@@ -30,7 +30,7 @@ color_map = {
     "🎉": "#32CD32"
 }
 
-# viz
+# viz support agent logged feedback
 df = get_today_moods()
 if df.empty:
     st.info("No moods logged today yet.")
